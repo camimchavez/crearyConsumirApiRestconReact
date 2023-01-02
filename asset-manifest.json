@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d9dfbde.css",
+    "main.js": "/static/js/main.25887c03.js",
+    "static/js/787.096b7631.chunk.js": "/static/js/787.096b7631.chunk.js",
+    "static/media/spacecraft-rocket-svgrepo-com.svg": "/static/media/spacecraft-rocket-svgrepo-com.ab47c7c0a72e6f110d2626ecf6ff9705.svg",
+    "index.html": "/index.html",
+    "main.2d9dfbde.css.map": "/static/css/main.2d9dfbde.css.map",
+    "main.25887c03.js.map": "/static/js/main.25887c03.js.map",
+    "787.096b7631.chunk.js.map": "/static/js/787.096b7631.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d9dfbde.css",
+    "static/js/main.25887c03.js"
+  ]
+}
